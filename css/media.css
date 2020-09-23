@@ -1,0 +1,180 @@
+@media(max-width: 1199px){
+	.container{
+		width:800px;
+	}
+		.banner-content h1 {
+    font-size: 90px;
+	}
+	.btn {
+ 
+    padding: 10px 25px;
+    
+    margin-top: -27px;
+   } 
+   .arrow {
+    bottom: 26px;
+    font-size: 16px;
+}
+.aboutus-section {
+    padding: 60px 0px;
+    }
+    h2 {
+    font-size: 35px;
+}
+.aboutus-section p {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+.feature {
+    padding: 30px 20px;
+}
+h3 {
+    font-size: 18px;
+    margin: 15px 0px;
+    padding: 0 11px;
+    }
+    .contact-form {
+    width: 60%;
+}
+}
+@media(max-width: 900px){
+	.container{
+		width:700px;
+	}
+	.banner-content h1 {
+    font-size: 60px;
+}
+	.banner-content span {
+    margin-bottom: -26px;
+}
+.banner-content p {
+    font-size: 18px;
+  }
+   .feature {
+    padding: 20px 0;
+}
+.feature span {
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 40px;
+}
+}
+
+
+@media(max-width: 800px){
+	.container{
+		width:600px;
+	}
+	nav ul li a {
+    padding: 10px 15px;
+    font-size: 14px;
+}
+.arrow{
+	display: none;
+}
+h2 {
+    font-size: 28px;
+}
+.aboutus-section p {
+    font-size: 17px;
+    margin-top: 15px;
+
+}
+.col {
+    padding: 10px;
+}
+h3 {
+    font-size: 15px;
+    padding: 0 0;
+}
+     p{
+    font-size: 14px;
+    margin:10px 0;
+}
+.contact-form {
+    width: 70%;
+}
+.banner-content h1 {
+    font-size: 50px;
+}
+.banner-content p {
+    font-size: 15px;
+}
+}
+@media(max-width: 700px){
+	.container{
+		width:100%;
+		padding: 0 20px;
+	}
+	.logo {
+    width: 100%;
+    text-align: center;
+}
+.logo a img {
+    width: 107px;
+}
+nav {
+    width: 100%;
+}
+nav ul {
+    justify-content: center;
+}
+nav ul li a {
+    padding: 18px 15px;
+    }
+    header {
+    padding: 10px 0px;
+}
+.banner-content h1 {
+    font-size: 28px;
+}
+.banner-content p {
+    font-size: 14px;
+}
+.btn {
+    padding: 8px 20px;
+    font-size: 14px;
+}
+.aboutus-section p {
+    font-size: 14px;
+    margin-top: 10px;
+    line-height: 1.7;
+}
+.aboutus-section {
+    padding: 40px 30px;
+}
+h2{
+	font-size: 24px;
+	font-weight: 600;
+}
+.col {
+    width: 80%;
+    padding: 30px 15px;
+}
+.feature-section .flex, .showcase-section .flex{
+	justify-content: center;
+}
+.contact-form{
+	width:90%;
+}
+.copyright, .social{
+	width:100%;
+	text-align: center;
+}
+.social ul{
+	justify-content: center;
+	margin-top: 20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
