@@ -372,7 +372,7 @@ footer{padding: 20px 0px;}
 .social ul li:last-child a::before{
 	width:0;
 }
-input:focus,input:focus, textarea:focus{
+input:focus,input:focus,textarea:focus{
 	outline:0;
 	border:1px solid #15a4fa !important;
 }
